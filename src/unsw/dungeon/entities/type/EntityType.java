@@ -1,0 +1,6 @@
+package unsw.dungeon.entities.type;
+
+public enum EntityType {
+    BOULDER, DOOR, ENEMY, EXIT, INVINCIBILITY, KEY, PLAYER, PORTAL, SWITCH, SWORD, TREASURE, WALL,
+    EXTENTION_GHOSTPOTION, EXTENTION_GNOME;
+}
